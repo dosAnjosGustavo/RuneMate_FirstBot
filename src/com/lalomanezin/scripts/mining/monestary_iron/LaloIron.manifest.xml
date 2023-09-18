@@ -1,0 +1,25 @@
+<manifest>
+    <main-class>com.lalomanezin.scripts.mining.monestary_iron.RegalIron</main-class>
+    <name>LaloIronMiner</name>
+    <tag-line>A mining bot fit for royalty!</tag-line>
+    <description>Mines</description>
+    <version>1.0.0</version>
+    <compatibility>
+        <game>OSRS</game>
+    </compatibility>
+    <categories>
+        <category>MINING</category>
+        <category>MONEYMAKING</category>
+    </categories>
+    <internal-id>laloIron</internal-id>
+    <open-source>true</open-source>
+    <hidden>false</hidden>
+    <access>public</access>
+    <tags>
+        <tag>mining</tag>
+        <tag>iron</tag>
+        <tag>money</tag>
+    </tags>
+    <resources>
+    </resources>
+</manifest>
